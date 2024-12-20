@@ -355,7 +355,7 @@ body, html {
 } 
 
 .content {
-  min-height: calc(150vh - 160px); /* Adjust height as needed for the footer height */
+  min-height: calc(150vh - 160px); 
 }
 
 .footer {
